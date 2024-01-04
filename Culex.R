@@ -1088,3 +1088,5 @@ culex_UTM1x1$predicted_value_culex <-
   (max(culex_UTM1x1$mean_counts) - min(culex_UTM1x1$mean_counts))
 
 # write_csv(culex_UTM1x1, "Prediction/Culex/culex_UTM1x1.csv")
+
+# hola nasi estic trista perquè sóc un puto drama i no serveixo per res d'això però t'estimo moltes gràcies per ajudar-me
